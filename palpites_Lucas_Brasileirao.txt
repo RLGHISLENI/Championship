@@ -1,0 +1,12 @@
+Gremio;0;0;0;0;0;0|Inter;0;0;0;0;0;0|0
+Gremio;0;0;0;0;0;0|Palmeiras;0;0;0;0;0;0|0
+Gremio;0;0;0;0;0;0|Flamengo;0;0;0;0;0;0|0
+Inter;0;0;0;0;0;0|Gremio;0;0;0;0;0;0|0
+Inter;0;0;0;0;0;0|Palmeiras;0;0;0;0;0;0|0
+Inter;0;0;0;0;0;0|Flamengo;0;0;0;0;0;0|0
+Palmeiras;0;0;0;0;0;0|Gremio;0;0;0;0;0;0|0
+Palmeiras;0;0;0;0;0;0|Inter;0;0;0;0;0;0|0
+Palmeiras;0;0;0;0;0;0|Flamengo;0;0;0;0;0;0|0
+Flamengo;0;0;0;0;0;0|Gremio;0;0;0;0;0;0|0
+Flamengo;0;0;0;0;0;0|Inter;0;0;0;0;0;0|0
+Flamengo;0;0;0;0;0;0|Palmeiras;0;0;0;0;0;0|0
